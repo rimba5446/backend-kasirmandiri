@@ -31,11 +31,11 @@ app.get("/", function(req, res) {
     res.send("BackEnd POS Mandiri Server Online.");
   });
 
-app.use("/api/inventory", require("./api/inventory"));
-app.use("/api/customers", require("./api/customers"));
-app.use("/api/categories", require("./api/categories"));
-app.use("/api/settings", require("./api/settings"));
-app.use("/api/users", require("./api/users"));
-app.use("/api", require("./api/transactions"));
+app.use("/api/inventory", require("./inventory"));
+app.use("/api/customers", require("./customers"));
+app.use("/api/categories", require("./categories"));
+app.use("/api/settings", require("./settings"));
+app.use("/api/users", require("./users"));
+app.use("/api", require("./transactions"));
 
 server.listen(PORT, () => console.log(`Listening on PORT ${PORT}`));
