@@ -4,8 +4,8 @@ let express = require("express"),
   server = http.createServer(app),
   bodyParser = require("body-parser");
 
-const path = require('path');
-app.use('/image-upload', express.static(path.join(__dirname, 'public')));
+// const path = require('path');
+// app.use('/image-upload', express.static(path.join(__dirname, 'public')));
 
 const PORT = process.env.PORT || 8001;
 
