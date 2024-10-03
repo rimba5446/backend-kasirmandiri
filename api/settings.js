@@ -8,7 +8,7 @@ const fs = require('fs');
 
 
 const storage = multer.diskStorage({
-    destination:  process.env.APPDATA+'/POS/uploads',
+    destination: './image-upload',
     filename: function(req, file, callback){
         callback(null, Date.now() + '.jpg'); // 
     }

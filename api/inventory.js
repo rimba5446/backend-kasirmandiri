@@ -9,7 +9,7 @@ const fs = require('fs');
 
 
 const storage = multer.diskStorage({
-    destination: process.env.APPDATA+'/POS/uploads',
+    destination: './image-upload',
     filename: function(req, file, callback){
         callback(null, Date.now() + '.jpg'); // 
     }
@@ -75,7 +75,7 @@ app.post( "/product", upload.single('imagename'), function ( req, res ) {
  
 
     if(req.body.remove == 1) {
-        const path = './resources/app/public/uploads/product_image/'+ req.body.img;
+        const path = './image-upload'+ req.body.img;
         try {
           fs.unlinkSync(path)
         } catch(err) {
