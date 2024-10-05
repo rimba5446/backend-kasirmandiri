@@ -1,3 +1,258 @@
 {"_id":1727699889,"price":"5000","category":"1727694255","quantity":11,"name":"Sprit","stock":1,"img":"1727795337016.jpg"}
-{"_id":1727792660,"price":"5000","category":"1727694255","quantity":11,"name":"Floridina","stock":1,"img":"1727792660926.jpg"}
+{"_id":1727792660,"price":"5000","category":"1727694255","quantity":10,"name":"Floridina","stock":1,"img":"1727792660926.jpg"}
 {"_id":1727879503,"price":"3500","category":"1727694255","quantity":48,"name":"Mie Sedap Soto","stock":1,"img":"1727879503530.jpg"}
+{"_id":1728051342,"price":"5000","category":"1727694255","quantity":"12","name":"Coca Cola","stock":1,"img":""}
+{"$$deleted":true,"_id":1728051342}
+{"$$deleted":true,"_id":1727792660}
+{"$$deleted":true,"_id":1727879503}
+{"$$deleted":true,"_id":1727699889}
+{"_id":1728126981,"price":"5000","category":"1727694347","quantity":["12","12"],"name":"Tolak Angin","stock":1,"fisrt_stock":["12","12"],"img":""}
+{"$$deleted":true,"_id":1728126981}
+{"_id":1728127137,"price":"5000","category":"1727694347","quantity":"12","name":"Tolak Angin","stock":1,"fisrt_stock":"12","img":"1728127137604.jpg"}
+{"_id":1728127137,"price":"5000","category":"1727694347","quantity":10,"name":"Tolak Angin","stock":1,"fisrt_stock":"12","img":"1728127137604.jpg"}
+{"_id":1728127616,"price":"5000","category":"1727694347","quantity":"12","name":"Tolak Angin Anak","stock":1,"fisrt_stock":"12","img":"1728127616627.jpg"}
+{"_id":1728127669,"price":"10.000","category":"1727694332","quantity":"10","name":"Lem Power","stock":1,"fisrt_stock":"10","img":""}
+{"_id":1728127683,"price":"10000","category":"1727694347","quantity":"12","name":"Minyak Kayu Putih","stock":1,"fisrt_stock":"12","img":"1728127683503.jpg"}
+{"_id":1728127669,"price":"10000","category":"1727694332","quantity":"10","name":"Lem Power","stock":1,"fisrt_stock":"10","img":""}
+{"_id":1728127669,"price":"15000","category":"1727694332","quantity":0,"name":"Tisu Besar","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728127669,"price":"8000","category":"1727694332","quantity":0,"name":"Tisu Kecil","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728127834,"price":"3000","category":"1727694347","quantity":0,"name":"Koyo","stock":1,"fisrt_stock":"","img":"1728127834361.jpg"}
+{"_id":1728127669,"price":"10000","category":"1727694332","quantity":0,"name":"Lem Power","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728127669,"price":"15000","category":"1727694332","quantity":0,"name":"Tisu Besar","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728127669,"price":"10000","category":"1727694332","quantity":0,"name":"Lem Power","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728127931,"price":"10000","category":"1727694347","quantity":"12","name":"Balsem","stock":1,"fisrt_stock":"12","img":""}
+{"_id":1728127962,"price":"5000","category":"1727694366","quantity":0,"name":"blablabla","stock":1,"fisrt_stock":"","img":""}
+{"$$deleted":true,"_id":1728127962}
+{"_id":1728128013,"price":"15000","category":"1727694332","quantity":0,"name":"Tisu Besar","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128042,"price":"8000","category":"1727694332","quantity":0,"name":"Tisu Keci","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128065,"price":"15000","category":"0","quantity":0,"name":"Tisu Basah besar","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128086,"price":"10000","category":"1727694332","quantity":0,"name":"Tisu Basah Kecil","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128113,"price":"5000","category":"1727694332","quantity":0,"name":"Pembalut","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128118,"price":"3000","category":"1727694347","quantity":0,"name":"Pill Kita","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128138,"price":"5000","category":"1727694332","quantity":0,"name":"Pempers","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128139,"price":"3000","category":"0","quantity":0,"name":"Bodrex","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128155,"price":"50000","category":"1727694332","quantity":0,"name":"Tikar","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128156,"price":"3000","category":"1727694347","quantity":0,"name":"Paramex","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128167,"price":"2000","category":"1727694332","quantity":0,"name":"Antis","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128186,"price":"10000","category":"1727694332","quantity":0,"name":"Cukuran Jenggot","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128191,"price":"3000","category":"1727694347","quantity":0,"name":"Promag ","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128139,"price":"3000","category":"1727694347","quantity":"0","name":"Bodrex","stock":1,"fisrt_stock":"0","img":""}
+{"_id":1728128065,"price":"15000","category":"1727694332","quantity":"0","name":"Tisu Basah besar","stock":1,"fisrt_stock":"0","img":""}
+{"_id":1728128231,"price":"10000","category":"1727694332","quantity":0,"name":"Senter","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128281,"price":"10000","category":"1727694332","quantity":0,"name":"Masker Hitam","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128305,"price":"5000","category":"1727694332","quantity":0,"name":"Masker Biasa","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128313,"price":"10000","category":"1727694332","quantity":0,"name":"Bross","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128329,"price":"10000","category":"1727694332","quantity":0,"name":"Ikat Rambut","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128339,"price":"10000","category":"1727694332","quantity":0,"name":"Gunting Kuku","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128367,"price":"3000","category":"1727694347","quantity":0,"name":"Komix","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128416,"price":"20000","category":"1727694347","quantity":0,"name":"Freshcare","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128423,"price":"15000","category":"0","quantity":0,"name":"Gunting","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128437,"price":"10000","category":"1727694332","quantity":0,"name":"Kater","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128448,"price":"10000","category":"1727694332","quantity":0,"name":"Pengharum Mobil","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128450,"price":"3000","category":"1727694347","quantity":0,"name":"Remasil","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128462,"price":"5000","category":"1727694332","quantity":0,"name":"Sisir","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128504,"price":"3000","category":"1727694347","quantity":0,"name":"Oskadon","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128423,"price":"15000","category":"1727694332","quantity":"0","name":"Gunting","stock":1,"fisrt_stock":"0","img":""}
+{"_id":1728128462,"price":"10000","category":"1727694332","quantity":0,"name":"Pinset","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128462,"price":"60000","category":"1727694332","quantity":0,"name":"Handuk Besar","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128423,"price":"2000","category":"1727694347","quantity":0,"name":"Ultra Flu","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128462,"price":"40000","category":"1727694332","quantity":0,"name":"Handuk Kecil","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128423,"price":"2000","category":"1727694347","quantity":0,"name":"Entrostop","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128462,"price":"20000","category":"1727694332","quantity":0,"name":"Celana Dalam Cewek","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128462,"price":"50000","category":"0","quantity":0,"name":"Celana dalam Cowok","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128462,"price":"50000","category":"0","quantity":0,"name":"Celana dalam Cowok","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128462,"price":"35000","category":"0","quantity":0,"name":"Kaos","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128423,"price":"15000","category":"1727694366","quantity":0,"name":"Biscuit","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128462,"price":"70000","category":"1727694332","quantity":0,"name":"Minyak wangi","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128423,"price":"15000","category":"1727694366","quantity":0,"name":"Snack Kecil","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128462,"price":"10000","category":"1727694332","quantity":0,"name":"Tali Rafia","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128423,"price":"5000","category":"0","quantity":0,"name":"Kerupuk Udang","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128462,"price":"30000","category":"1727694332","quantity":0,"name":"Ember","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128462,"price":"15000","category":"1727694332","quantity":0,"name":"Sendal Jepit","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128423,"price":"5000","category":"1727694366","quantity":"0","name":"Kerupuk Udang","stock":1,"fisrt_stock":"0","img":""}
+{"_id":1728128462,"price":"50000","category":"1727694332","quantity":0,"name":"Sendal Cowok","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128462,"price":"50000","category":"1727694332","quantity":0,"name":"Sendal Cewek","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128462,"price":"20000","category":"1727694332","quantity":0,"name":"sapu Mobil","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128462,"price":"50000","category":"1727694332","quantity":0,"name":"Celana Pendek","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128462,"price":"100000","category":"1727694332","quantity":0,"name":"Celana Panjang","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128905,"price":"5000","category":"1727694366","quantity":0,"name":"Emping","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128918,"price":"5000","category":"1727694366","quantity":0,"name":"Peyek","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128950,"price":"3000","category":"1727694366","quantity":0,"name":"Kerupuk Kaleng","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128970,"price":"5000","category":"1727694366","quantity":0,"name":"Kacang Atom","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128990,"price":"5000","category":"1727694366","quantity":0,"name":"Kacang Bawang","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728128992,"price":"30000","category":"1727694270","quantity":0,"name":"Sop Iga","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129017,"price":"30000","category":"1727694270","quantity":0,"name":"Sop Daging","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129020,"price":"10000","category":"1727694366","quantity":0,"name":"Nabati","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129038,"price":"30000","category":"1727694270","quantity":0,"name":"Soto Daging","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129042,"price":"5000","category":"1727694366","quantity":0,"name":"Telur Asin","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129158,"price":"25000","category":"1727694309","quantity":0,"name":"Soto Ayam","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129180,"price":"25000","category":"1727694270","quantity":0,"name":"Pecel Ayam","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129196,"price":"25000","category":"1727694270","quantity":0,"name":"Pecel Lele","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728127683,"price":"10000","category":"1727694347","quantity":11,"name":"Minyak Kayu Putih","stock":1,"fisrt_stock":"12","img":"1728127683503.jpg"}
+{"_id":1728127137,"price":"5000","category":"1727694347","quantity":9,"name":"Tolak Angin","stock":1,"fisrt_stock":"12","img":"1728127137604.jpg"}
+{"_id":1728127616,"price":"5000","category":"1727694347","quantity":11,"name":"Tolak Angin Anak","stock":1,"fisrt_stock":"12","img":"1728127616627.jpg"}
+{"_id":1728129232,"price":"28000","category":"1727694270","quantity":0,"name":"Pecel Ikan Mas/Nila","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129248,"price":"28000","category":"1727694270","quantity":0,"name":"Pecel Bandeng","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129258,"price":"15000","category":"1727694270","quantity":0,"name":"Bakso","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129261,"price":"5000","category":"1727694366","quantity":0,"name":"Pisang/Apel","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129295,"price":"3000","category":"1727694366","quantity":0,"name":"Salak/Manggis","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129301,"price":"20000","category":"1727694270","quantity":0,"name":"Nasi goreng/Nasi Telor","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129311,"price":"5000","category":"1727694366","quantity":0,"name":"Jeruk","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129320,"price":"15000","category":"1727694270","quantity":0,"name":"Indomie Rebus","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129322,"price":"10000","category":"1727694366","quantity":0,"name":"Manga/Pir","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129338,"price":"5000","category":"1727694366","quantity":0,"name":"Roti Aoka","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129341,"price":"20000","category":"0","quantity":0,"name":"Indomie Goreng","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129357,"price":"20000","category":"1727694366","quantity":0,"name":"Kuaci","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129360,"price":"12000","category":"1727694270","quantity":0,"name":"Pop Mie Goreng","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129374,"price":"20000","category":"1727694366","quantity":0,"name":"Snack Besar","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129378,"price":"10000","category":"1727694255","quantity":0,"name":"Pop Mie Rebus","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129341,"price":"20000","category":"1727694270","quantity":"0","name":"Indomie Goreng","stock":1,"fisrt_stock":"0","img":""}
+{"_id":1728129378,"price":"10000","category":"1727694270","quantity":"0","name":"Pop Mie Rebus","stock":1,"fisrt_stock":"0","img":""}
+{"_id":1728129425,"price":"10000","category":"1727694270","quantity":0,"name":"Nasi Putih POLOS","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129566,"price":"20000","category":"1727694388","quantity":0,"name":"Tempat Sabun Kotak","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129582,"price":"15000","category":"1727694388","quantity":0,"name":"Tempat Sabun Ember","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129610,"price":"7000","category":"0","quantity":0,"name":"Sabun Nuvo,Detol,Levboy","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129634,"price":"8000","category":"1727694388","quantity":0,"name":"Sabun Lux,Shinzui","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129645,"price":"5000","category":"1727694285","quantity":0,"name":"Kapal Api","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129661,"price":"20000","category":"1727694388","quantity":0,"name":"Sabun Botol","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129675,"price":"5000","category":"1727694285","quantity":0,"name":"Luwak White Kopi","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129610,"price":"7000","category":"1727694388","quantity":"0","name":"Sabun Nuvo,Detol,Levboy","stock":1,"fisrt_stock":"0","img":""}
+{"_id":1728129684,"price":"5000","category":"1727694285","quantity":0,"name":"Good Day","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129735,"price":"8000","category":"1727694285","quantity":0,"name":"Good Day Capucino","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129786,"price":"5000","category":"1727694285","quantity":0,"name":"Torabika","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129797,"price":"5000","category":"1727694285","quantity":0,"name":"Indocafe","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129807,"price":"5000","category":"1727694285","quantity":0,"name":"Kopi Pahit","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129817,"price":"5000","category":"1727694285","quantity":0,"name":"Energen","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129854,"price":"5000","category":"1727694285","quantity":0,"name":"Susu Putih","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129863,"price":"5000","category":"1727694285","quantity":0,"name":"Susu Coklat","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129869,"price":"20000","category":"1727694388","quantity":0,"name":"Shampo Botol","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"5000","category":"1727694285","quantity":0,"name":"Es Teh Manis","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129897,"price":"2500","category":"1727694388","quantity":0,"name":"Shampo Shacet","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129918,"price":"8000","category":"1727694388","quantity":0,"name":"Odol","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129936,"price":"8000","category":"0","quantity":0,"name":"Sikat Gigi","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"5000","category":"1727694285","quantity":"0","name":"Es Teh  Panas","stock":1,"fisrt_stock":"0","img":""}
+{"_id":1728129936,"price":"8000","category":"1727694388","quantity":"0","name":"Sikat Gigi","stock":1,"fisrt_stock":"0","img":""}
+{"_id":1728129894,"price":"8000","category":"0","quantity":0,"name":"Teh Manis Panas","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"8000","category":"1727694285","quantity":"0","name":"Teh Manis Panas","stock":1,"fisrt_stock":"0","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694285","quantity":0,"name":"Jeruk Panas","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694285","quantity":0,"name":"Es Jeruk","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728130084,"price":"8000","category":"1727694388","quantity":0,"name":"Sikat Gigi","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728130084,"price":"10000","category":"1727694388","quantity":"0","name":"Sikat Cuci","stock":1,"fisrt_stock":"0","img":""}
+{"_id":1728130084,"price":"3000","category":"1727694388","quantity":0,"name":"Molto","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728130084,"price":"3000","category":"1727694388","quantity":0,"name":"Sabun Colek","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728130084,"price":"3000","category":"1727694388","quantity":0,"name":"Rinso","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"5000","category":"1727694285","quantity":0,"name":"Susu Jahe","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"5000","category":"1727694285","quantity":0,"name":"Es Nutrisari","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"5000","category":"1727694285","quantity":0,"name":"Kopi Susu ABC","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"5000","category":"1727694285","quantity":0,"name":"Kopi Racik","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"5000","category":"1727694285","quantity":0,"name":"Tora Susu","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694285","quantity":0,"name":"Extra Joss","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694285","quantity":0,"name":"Kuku Bima","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"8000","category":"1727694285","quantity":0,"name":"Teh Tarik ","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"3500","category":"1727694285","quantity":0,"name":"Adem Sari Sachet","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728130084,"price":"10000","category":"1727694388","quantity":0,"name":"Spons Mandi","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129158,"price":"25000","category":"1727694270","quantity":"0","name":"Soto Ayam","stock":1,"fisrt_stock":"0","img":""}
+{"_id":1728131045,"price":"5000","category":"1727694388","quantity":0,"name":"Rexona","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131057,"price":"5000","category":"1727694388","quantity":0,"name":"Soffel","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131066,"price":"3000","category":"1727694388","quantity":0,"name":"Gatsby","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131105,"price":"5000","category":"1727694388","quantity":0,"name":"Obat Nyamuk Bakar","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131281,"price":"35000","category":"1727694404","quantity":0,"name":"Surya Pro Merah","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131297,"price":"35000","category":"1727694404","quantity":0,"name":"Surya Pro Putih","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131314,"price":"40000","category":"1727694404","quantity":0,"name":"Surya 16","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131327,"price":"33000","category":"1727694404","quantity":0,"name":"Surya 12","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131381,"price":"33000","category":"1727694404","quantity":0,"name":"Marboro Merah","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131381,"price":"45000","category":"1727694404","quantity":"0","name":"Marboro Merah","stock":1,"fisrt_stock":"0","img":""}
+{"_id":1728131381,"price":"45000]","category":"1727694404","quantity":0,"name":"Marboro Putih","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131381,"price":"45000","category":"1727694404","quantity":0,"name":"Malboro Hitam","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131381,"price":"40000","category":"0","quantity":0,"name":"Dunhil Hitam","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131381,"price":"40000","category":"1727694404","quantity":0,"name":"Dunhil Putih","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131550,"price":"35000","category":"1727694404","quantity":0,"name":"Class Mild","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131574,"price":"28000","category":"1727694404","quantity":0,"name":"Gudang Garam Singnature","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131594,"price":"23000","category":"1727694404","quantity":0,"name":"Gudang Garam Merah","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131610,"price":"33000","category":"1727694404","quantity":0,"name":"Gudang Garam Filter","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131626,"price":"40000","category":"1727694404","quantity":0,"name":"Sampourna Mild","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131643,"price":"33000","category":"1727694404","quantity":0,"name":"Magnum Hitam","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131672,"price":"33000","category":"1727694404","quantity":0,"name":"Samsu Refil","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131688,"price":"28000","category":"1727694404","quantity":0,"name":"Samsu Kretek","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131714,"price":"45000","category":"1727694404","quantity":0,"name":"Esse Change/Double Juise","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131736,"price":"45000","category":"1727694404","quantity":0,"name":"Avolution","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131757,"price":"40000","category":"1727694404","quantity":0,"name":"LA Bold","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131780,"price":"33000","category":"1727694404","quantity":0,"name":"Djarum Super","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131797,"price":"23000","category":"1727694404","quantity":0,"name":"Djarum Coklat","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131822,"price":"35000","category":"1727694404","quantity":0,"name":"Bull","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131844,"price":"33000","category":"1727694404","quantity":0,"name":"Magnum Max","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131864,"price":"33000","category":"1727694404","quantity":0,"name":"Twizz","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131933,"price":"5000","category":"0","quantity":0,"name":"Korek Gass","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728131933,"price":"5000","category":"1727694404","quantity":"0","name":"Korek Gass","stock":1,"fisrt_stock":"0","img":""}
+{"_id":1728129894,"price":"15000","category":"1728129503","quantity":0,"name":"Beras 1KG","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"18000","category":"1728129503","quantity":0,"name":"MINYAK KITA 1 liter","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"15000","category":"0","quantity":0,"name":"KOPI BUBUK  1/2","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"1000","category":"0","quantity":0,"name":"Kacep Sachet ","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"5000","category":"1728129503","quantity":0,"name":"Kecap Bango","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"3000","category":"1728129503","quantity":0,"name":"Sunlight","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"5000","category":"1728129503","quantity":0,"name":"Mecin Sasa","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"3000","category":"0","quantity":0,"name":"Garem","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"1000","category":"0","quantity":0,"name":"Masako ayam","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"1000","category":"0","quantity":0,"name":"Masako Sapi","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"Pulpy Orange","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"Floridina","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"Nutri Boost","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"Kopiko","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"Coca Cola","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"Fanta","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"Sprit","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"Nipis Madu SODA","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"0","quantity":0,"name":"Freshhtea/FruitTea","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"Soda","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"YouC1000","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"Bintang Zero","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"15000","category":"1727694309","quantity":0,"name":"Kratindeng Kaleng","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"15000","category":"1727694309","quantity":0,"name":"Kratindeng Botol","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"18000","category":"1727694309","quantity":0,"name":"Susu Beruang","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"15000","category":"1727694309","quantity":0,"name":"Cincau","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"15000","category":"1727694309","quantity":0,"name":"Adem Sari Kaleng","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"15000","category":"1727694309","quantity":0,"name":"Larutan Kaleng","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"4000","category":"1727694309","quantity":0,"name":"Yakult","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"Susu kotak","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"15000","category":"1727694309","quantity":0,"name":"Pocari Sweat","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"PocariSweat Kaleng","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"Teh Pucuk","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"aqua Besar","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"5000","category":"1727694309","quantity":0,"name":"Aqua Kecil","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"Good day Botol","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"Mizone","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"Milku","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"Teh Kotak","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"Teh Kotak","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"Larutan Tawar","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728129894,"price":"10000","category":"1727694309","quantity":0,"name":"Teh Kotak","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133361,"price":"10000","category":"1727694309","quantity":0,"name":"Pulpy Orange","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133372,"price":"10000","category":"1727694309","quantity":0,"name":"Floridina","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133387,"price":"10000","category":"1727694309","quantity":0,"name":"Kopiko","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133429,"price":"10000","category":"1727694309","quantity":0,"name":"Nutri Boost","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133440,"price":"10000","category":"1727694309","quantity":0,"name":"Coca Cola","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133451,"price":"10000","category":"1727694309","quantity":0,"name":"Fanta","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133460,"price":"10000","category":"1727694309","quantity":0,"name":"Sprite","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133502,"price":"10000","category":"1727694309","quantity":0,"name":"Nipis Madu","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133517,"price":"10000","category":"1727694309","quantity":0,"name":"Frestea/Fruittea","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133535,"price":"10000","category":"1727694309","quantity":0,"name":"Soda","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133587,"price":"10000","category":"1727694309","quantity":0,"name":"YOUC1000","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133597,"price":"10000","category":"1727694309","quantity":0,"name":"Bintang Zero","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133612,"price":"15","category":"1727694309","quantity":0,"name":"Kratinndeng Kaleng","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133627,"price":"15000","category":"1727694309","quantity":0,"name":"Kratidange Boto","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133662,"price":"18000","category":"1727694309","quantity":0,"name":"Susu Beruang","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133689,"price":"15000","category":"1727694309","quantity":0,"name":"Cincau","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133697,"price":"15000","category":"1727694309","quantity":0,"name":"Adem Sari","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133721,"price":"15000","category":"1727694309","quantity":0,"name":"Larutan Kaleng","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133731,"price":"4000","category":"1727694309","quantity":0,"name":"Yakult","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133751,"price":"10000","category":"1727694309","quantity":0,"name":"susu kotak","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133777,"price":"15000","category":"1727694309","quantity":0,"name":"pocarisweat kaleng","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133805,"price":"10000","category":"1727694309","quantity":0,"name":"pocarisweat botol","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133865,"price":"10000","category":"1727694309","quantity":0,"name":"Teh pucuk","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133878,"price":"10000","category":"1727694309","quantity":0,"name":"aqua besar","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133890,"price":"5000","category":"1727694309","quantity":0,"name":"aqua kecil","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133908,"price":"10000","category":"1727694309","quantity":0,"name":"Good day botol","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133920,"price":"10000","category":"1727694309","quantity":0,"name":"Mizone","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133933,"price":"10000","category":"1727694309","quantity":0,"name":"Milku","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133943,"price":"10000","category":"1727694309","quantity":0,"name":"Teh kotak","stock":1,"fisrt_stock":"","img":""}
+{"_id":1728133957,"price":"10000","category":"1727694309","quantity":0,"name":"larutan tawar","stock":1,"fisrt_stock":"","img":""}
