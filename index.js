@@ -40,5 +40,6 @@ app.use("/api/categories", require("./api/categories"));
 app.use("/api/settings", require("./api/settings"));
 app.use("/api/users", require("./api/users"));
 app.use("/api", require("./api/transactions"));
+app.use("/api/deliveries", require("./api/deliveries"));
 
 server.listen(PORT, () => console.log(`Listening on PORT ${PORT}`));
